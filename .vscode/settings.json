@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "First Project DB",
+            "database": "${workspaceFolder:SQL_Projects}/first project/first_project.db"
+        }
+    ]
+}
