@@ -5,7 +5,7 @@
             "previewLimit": 50,
             "driver": "SQLite",
             "name": "First Project DB",
-            "database": "${workspaceFolder:SQL_Projects}/first project/first_project.db"
+            "database": "${workspaceFolder:SQL_Projects}/first_project/first_project.db"
         }
     ]
 }
